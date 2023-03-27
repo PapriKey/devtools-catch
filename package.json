@@ -1,0 +1,23 @@
+{
+  "name": "devtools-catch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapriKey/devtools-catch.git"
+  },
+  "author": "paprikey",
+  "license": "ISC",
+  "keywords": [
+    "devtools",
+    "catch"
+  ],
+  "bugs": {
+    "url": "https://github.com/PapriKey/devtools-catch/issues"
+  },
+  "homepage": "https://github.com/PapriKey/devtools-catch#readme"
+}
